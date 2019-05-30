@@ -1,5 +1,7 @@
 # Breast Cancer Classification
 
+![github-small](https://github.com/SaquibAnwar/breast-cancer-classification/blob/master/images/langing.png?raw=truepng)
+
 
 - Predicting if the cancer diagnosis is benign or malignant based on several observations/features
 - 30 features are used, examples:
