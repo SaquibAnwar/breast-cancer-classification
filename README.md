@@ -39,6 +39,6 @@ https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
 
 ## Conclusion :
-> So the conclusion drawn from the experiment can be summed up into the following :
+- So the conclusion drawn from the experiment can be summed up into the following :
 
 ![github-small](https://github.com/SaquibAnwar/breast-cancer-classification/blob/master/images/img3.png?raw=truepng)
