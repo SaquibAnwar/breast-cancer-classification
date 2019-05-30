@@ -33,6 +33,6 @@ https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
 ## Algorithm :
 
-### “Support Vector Machine” (SVM) is a supervised machine learning algorithm which can be used for both classification or regression challenges.
+- “Support Vector Machine” (SVM) is a supervised machine learning algorithm which can be used for both classification or regression challenges.
 
 ![github-small](https://github.com/SaquibAnwar/breast-cancer-classification/blob/master/images/img2.png?raw=truepng)
