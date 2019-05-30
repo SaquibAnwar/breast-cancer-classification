@@ -21,8 +21,8 @@
 - Number of Instances: 569
 - Class Distribution: 212 Malignant, 357 Benign
 - Target class:
-         - Malignant
-         - Benign
+  * Malignant
+  * Benign
 
 
 ![github-small](https://github.com/SaquibAnwar/breast-cancer-classification/blob/master/images/img1.png?raw=truepng)
